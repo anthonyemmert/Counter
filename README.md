@@ -8,5 +8,5 @@ Simple Jetpack Compose counter app.
 - ViewModel state
 
 ## Screenshots
-<img width="540" height="1212" alt="Screenshot_20260221-191959" src="https://github.com/user-attachments/assets/e73cfef4-b4bd-4f30-ae76-a8396a4da653" />
+<img width="270" height="606" alt="Screenshot_20260221-191959" src="https://github.com/user-attachments/assets/e73cfef4-b4bd-4f30-ae76-a8396a4da653" />
 
